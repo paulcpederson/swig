@@ -22,7 +22,7 @@
     "optimist": "~0.6"
   },
   "devDependencies": {
-    "blanket": "~1.1",
+    "blanket": "1.2.3",
     "browserify": "~2",
     "expect.js": "~0.2",
     "express": "~3",
